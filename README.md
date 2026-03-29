@@ -17,11 +17,15 @@ An arcade-style game combining boomerang-based camera physics, target shooting a
 
 <p align="center">
 
-![moonwalk1](https://github.com/user-attachments/assets/e3502607-aad5-4122-8e65-6afda755cb07)
+![frenzy1](https://github.com/user-attachments/assets/8f74fa13-6d7f-4606-a5bf-b5508b16d8b5)
 <br />
 <br />
  
-![moonwalk2](https://github.com/user-attachments/assets/1c5b853d-dfd9-4565-8a90-b418e61f5b85)
+![frenzy2](https://github.com/user-attachments/assets/b9d57895-ad35-4546-a049-eee8c45a0969)
+<br />
+<br />
+
+![frenzy3](https://github.com/user-attachments/assets/d9b60ff4-be0b-4c83-9632-9bb1b2240392)
 <br />
 <br />
 
