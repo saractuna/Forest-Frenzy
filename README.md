@@ -1,6 +1,6 @@
 <h1>Forest Frenzy</h1>
 
-A 2D infinite-walker game developed as an OOP study project, features a class-based architecture for weapons, enemies, and game mechanics. The game challenges players to survive enemy waves by strategically managing different weapon types and enemy encounters, with defeated enemies dropping loot (health points, ammunition, etc.) to aid progression. Built using encapsulation and inheritance patterns.
+An arcade-style game combining boomerang-based camera physics, target shooting and dodge-mechanics in a forest setting. Players compete against the clock to hit spawning beehives across a river while evading falling objects, with randomized powerups adding unpredictability.
 <br />
 <br />
 
