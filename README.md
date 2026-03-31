@@ -8,11 +8,11 @@
 
 <h2>Languages and Utilities Used:</h2>
 
-- <b>C#</b>
+- C#
 <br />
 
-- <b>Unity</b>
-- <b>Blender (for assets and models)</b>
+- Unity
+- Blender <i>(for assets and models)</i>
 <br />
 
 
