@@ -8,12 +8,15 @@
 
 <h2>Languages and Utilities Used:</h2>
 
-- C#
+- C# <i>- [click here to check out the code.]</i>
 <br />
 
 - Unity
 - Blender <i>(for assets and models)</i>
 <br />
+
+
+[click here to check out the code.]: https://github.com/saractuna/Forest-Frenzy/tree/main/Scripts
 
 
 <h2>Walk-through:</h2>
