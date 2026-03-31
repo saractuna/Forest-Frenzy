@@ -1,15 +1,18 @@
 [< Return](https://github.com/saractuna/)
 <h1>Forest Frenzy</h1>
 
-An arcade-style game combining boomerang-based camera physics, target shooting and dodge-mechanics in a forest setting. Players compete against the clock to hit spawning beehives across a river while evading falling objects, with randomized powerups adding unpredictability.
+An arcade-style game combining boomerang-based camera physics, target shooting and dodge-mechanics in a forest setting. Inspired from the classic game Windjammers. Player competes against the clock to hit spawning beehives across a river while evading falling objects, with randomized powerups adding unpredictability.
 <br />
 <br />
 
 
 <h2>Languages and Utilities Used:</h2>
 
-- <b>C#</b> 
+- <b>C#</b>
+<br />
+
 - <b>Unity</b>
+- <b>Blender (for assets and models)</b>
 <br />
 
 
